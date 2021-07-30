@@ -17,7 +17,7 @@
     "eslint": "^3.5.0",
     "flow-bin": "^0.45.0",
     "humanize": "0.0.9",
-    "prettier": "^1.5.3",
+    "prettier": "^1.19.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "webpack": "^3.5.3"

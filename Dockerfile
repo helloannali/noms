@@ -11,7 +11,7 @@ RUN go test github.com/attic-labs/noms/...
 RUN go install -v github.com/attic-labs/noms/cmd/noms
 RUN cp $GOPATH/bin/noms /bin/noms
 
-FROM alpine:latest
+FROM alpine:3.15.4
 
 COPY --from=build /bin/noms /bin/noms
 

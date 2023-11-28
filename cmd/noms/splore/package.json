@@ -11,10 +11,10 @@
   "dependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.0.2",
     "babel-loader": "^7.1.1",
     "babel-preset-stage-3": "^6.24.1",
-    "eslint": "^3.5.0",
+    "eslint": "^5.5.0",
     "flow-bin": "^0.45.0",
     "humanize": "0.0.9",
     "prettier": "^1.5.3",
